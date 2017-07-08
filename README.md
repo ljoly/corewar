@@ -1,7 +1,7 @@
 # corewar
 Creating an assembler to compile programs (the "champions"), and a virtual “arena” in which the champions will fight.
 
-## VM Usage:
+## vm usage:
 ### -dump N: prints hex dump after N cycles (can't be used with any graphic option)  
 ### -v: graphic visualiser in continuous mode
  * press S to start and it runs until the end
