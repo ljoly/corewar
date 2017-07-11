@@ -1,5 +1,5 @@
 # corewar
-Creating an assembler to compile programs (the "champions"), and a virtual “arena” in which the champions will fight.
+Creating an assembler to compile programs (the "champions"), and a virtual “arena” in which the champions are supposed to fight.
 
 ## vm usage:
 
